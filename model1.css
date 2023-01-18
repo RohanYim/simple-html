@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #95B9C7;
+}
+
+.left {
+    float: left;
+    width: 600px;
+    height: 300px;
+    position:fixed;
+    top:100px;
+    right:5px;
+}
+
+.right {
+    margin-left: 250px;
+    height: 300px;
+}
+
+.search{
+    position:absolute;
+    top:500px;
+    left:700px;
+}
+
+h1#ink,h1#ink2{
+    color: purple;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+}
+
+h1#ink-title{
+    color: purple;
+    text-shadow: 1px 1px 2px black;
+    font-size: 50px;
+}
+
+img#heart{
+    background-color: #95B9C7;
+}
+
+#input-search{
+    margin-left: 5px;
+}
