@@ -20,8 +20,15 @@ html, body {
 
 .search{
     position:absolute;
-    top:500px;
+    top:400px;
     left:700px;
+}
+
+.regrade{
+    font-size: 2px;
+    position:absolute;
+    top:500px;
+    left:70px;
 }
 
 h1#ink,h1#ink2{
